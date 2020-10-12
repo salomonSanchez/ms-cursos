@@ -1,6 +1,4 @@
-# Electron app
-
-**Electron se puede utilizar en cualquier entorno con sistema operativo Windows, Linux y Mac.**
+# ms-cursos
 
 **1. Instalar dependencias**
 
